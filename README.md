@@ -8,7 +8,8 @@ The best tools for hack & crack account facebook
 $ pkg update && pkg upgrade
 $ pkg install python2
 $ pkg install git wget curl -y
-$ git clone https://github.com/saydog/DARK-VIP
+$ git clone https://github.com/saydog/DARK-KING
+$ cd DARK-KING
 $ pip2 install requests
 $ pip2 install mechanize
 $ chmod 777 dog.py
